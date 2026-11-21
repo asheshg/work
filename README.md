@@ -2,10 +2,10 @@
 
 Public collection of banking landing-page prototypes. Each project is independent.
 
-| Project | Source |
-|---|---|
-| P1tch | [projects/p1tch](projects/p1tch/) |
-| Landing page | [projects/landing-page](projects/landing-page/) |
+| Project | Source | Live site |
+|---|---|---|
+| P1tch | [projects/p1tch](projects/p1tch/) | [p1tch.vercel.app](https://p1tch.vercel.app) |
+| Landing page | [projects/landing-page](projects/landing-page/) | [Vercel site](https://landing-page-gamma-six-48.vercel.app) |
 
 Serve each folder as a static website. Vercel deployments use the corresponding folder as Root Directory, framework Other, no build command, and output directory `.`.
 
